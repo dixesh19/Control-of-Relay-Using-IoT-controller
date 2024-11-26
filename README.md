@@ -1,6 +1,7 @@
 ### Name : DINESH R
 ### Reg no : 24900440
-# EXP-2 CONTROL OF RELAY USING IOT CONTROLLER
+
+# CONTROL RELAY USING IOT CONTROLLER
 ##  AIM:
 To control the Relay using Arduino controller
 
@@ -39,20 +40,19 @@ When there is no voltage applied to the coil, COM (common) is connected to NC (n
 In this Arduino  Relay Control Circuit we have used Arduino to control the relay via a BC547 transistor. We have connected transistor base to Arduino pin A0 through a 1k resistor. An AC bulb is used for demonstration.Working is simple, we need to make the RELAY Pin (PIN A0) high to make the Relay module ON and make the RELAY pin low to turn off the Relay Module. The AC light will also turn on and off according to Relay.
 
 ## PROGRAM:
-<img src="https://github.com/user-attachments/assets/2df07b2a-19fe-4c47-94f0-b7d5197c2163" width="600" height="500"/>
+<img src="https://github.com/user-attachments/assets/ecd38424-54bb-4590-b2ea-a43625f08233" width="600" height="500"/>
 
 ## CIRCUIT DIAGRAM:
-<img src="https://github.com/user-attachments/assets/4ec44b4f-a19e-4b0c-a2d6-83b7b1fae4c4" width="600" height="500"/>
+<img src="https://github.com/user-attachments/assets/a6dd1746-d5f2-4810-a84e-0150661022b8" width="600" height="500"/>
 
 ## OUTPUT:
-### lamp off :
-<img src="https://github.com/user-attachments/assets/a70086d1-abab-47f0-bafc-bfdfda82e5e2" width="600" height="500"/>
+### Lamp off:
 
+<img src="https://github.com/user-attachments/assets/6ecde2d5-53af-43f2-8d79-26dde0d74973" width="600" height="500"/>
 
-### lamp on :
-<img src="https://github.com/user-attachments/assets/3ceebc89-e334-4bae-b4cd-983cdb5ab32e" width="600" height="500"/>
-
+### Lamp on:
+<img src="https://github.com/user-attachments/assets/91be19e3-8839-43e7-8cbc-cf5be94e57b6" width="600" height="500"/>
 
 ## RESULT:
-
 Thus the relay is controlled using Arduino controller.
+
