@@ -1,7 +1,7 @@
 ### Name : DINESH R
 ### Reg no : 24900440
 
-# CONTROL RELAY USING IOT CONTROLLER
+# EXPERIMENT  2      CONTROL RELAY USING IOT CONTROLLER
 ##  AIM:
 To control the Relay using Arduino controller
 
